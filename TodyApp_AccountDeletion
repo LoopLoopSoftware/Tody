@@ -1,0 +1,6 @@
+Account deletion in the Tody app.
+
+All Data is generally only stored locally on your device. 
+If you set up a DataSync, your data will be stored on a remote server. 
+To delete a DataSync go the the DataSync settings menu and push the red "Delete" button.  
+Only the owner of a DataSync can it and it requires a confirmation login. 
